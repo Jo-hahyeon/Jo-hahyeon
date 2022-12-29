@@ -18,3 +18,4 @@
 
 ![React](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)
 ![React](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logocolor=9cf)
+![React](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord)
