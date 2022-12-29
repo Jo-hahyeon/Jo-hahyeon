@@ -17,4 +17,4 @@
 
 
 ![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
