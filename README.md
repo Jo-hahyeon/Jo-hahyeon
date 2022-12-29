@@ -17,9 +17,10 @@
 
 
 
-
-[![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)](https://github.com/Jo-hahyeon)
 ![React](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
 
+## 🦄 SNS 🦄
+
+[![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)](https://github.com/Jo-hahyeon)
 
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord)](https://discord.gg/DZZJCVCntv)
