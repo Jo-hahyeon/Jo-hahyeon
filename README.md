@@ -22,7 +22,8 @@
 
 ![buefy](https://github-readme-stats.vercel.app/api?username=Jo-hahyeon&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## ✨ Studying ✨
 
