@@ -25,6 +25,9 @@
 
 ![python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
 
+![git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git)
+
+
 ## 🦄 SNS 🦄
 
 [![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)](https://github.com/Jo-hahyeon)
