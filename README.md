@@ -24,7 +24,7 @@
 ## ✨ Tech Stack(studying) ✨
 
 ![python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
-![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=VisualStudioCode)
 ![git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git)
 
 
