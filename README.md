@@ -26,3 +26,4 @@
 
 [![Naver](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=Naver)](https://blog.naver.com/mizzu_02)
 [![instagram](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_adorable__3/)
+[![kakaotalk](https://img.shields.io/badge/kakaotalk-ffffff?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/o/seCDITVe)
