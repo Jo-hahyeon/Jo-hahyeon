@@ -22,7 +22,7 @@
 ## 🦄 SNS 🦄
 
 [![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)](https://github.com/Jo-hahyeon)
-
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord)](https://discord.gg/DZZJCVCntv)
 
 [![Naver](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=Naver)](https://blog.naver.com/mizzu_02)
+[![instagram](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_adorable__3/)
