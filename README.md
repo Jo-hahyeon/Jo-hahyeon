@@ -24,3 +24,5 @@
 [![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)](https://github.com/Jo-hahyeon)
 
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord)](https://discord.gg/DZZJCVCntv)
+
+[![Naver](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=Naver)](https://naver.com/shinerune2)
