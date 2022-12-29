@@ -21,7 +21,7 @@
 
 私はフルスタック課程を6ヶ月間学びます。
 
-## ✨ Tech Stack(studying) ✨
+## ✨ studying ✨
 
 ![python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=VisualStudioCode)
