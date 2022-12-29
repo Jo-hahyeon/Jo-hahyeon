@@ -16,5 +16,5 @@
 私はフルスタック課程を6ヶ月間学びます。
 
 
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)
-![React](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=Github&logoColor=ff69b4)
+![React](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logocolor=9cf)
