@@ -25,4 +25,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord)](https://discord.gg/DZZJCVCntv)
 
-[![Naverblog](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=Naverblog)](https://blog.naver.com/mizzu_02)
+[![blogNaver](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=blogNaver)](https://blog.naver.com/mizzu_02)
