@@ -24,7 +24,7 @@
 ## ✨ Studying ✨
 
 ![python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=VisualStudioCode)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logoColor=ff69b4)
 ![git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git)
 
 
