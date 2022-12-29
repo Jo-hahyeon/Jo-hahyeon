@@ -20,6 +20,8 @@
 
 私はフルスタック課程を6ヶ月間学びます。
 
+![buefy](https://github-readme-stats.vercel.app/api?username=Jo-hahyeon&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
+
 ## ✨ Studying ✨
 
 ![python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python)
