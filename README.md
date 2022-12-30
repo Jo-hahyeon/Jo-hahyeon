@@ -11,6 +11,7 @@
 
 ɪ'ᴍ ɢᴏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ ᴛʜᴇ ғᴜʟʟ sᴛᴀᴄᴋ ᴘʀᴏᴄᴇss ғᴏʀ 𝟼 ᴍᴏɴᴛʜs
 
+<br>
 
 ## 皆さん、こんにちは。👋
 
@@ -19,6 +20,8 @@
 私はマルチキャンパスの学生です。
 
 私はフルスタック課程を6ヶ月間学びます。
+
+<br>
 
 ![buefy](https://github-readme-stats.vercel.app/api?username=Jo-hahyeon&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
 
