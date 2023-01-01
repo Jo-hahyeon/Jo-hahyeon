@@ -44,4 +44,15 @@
 [![instagram](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_adorable__3/)
 [![kakaotalk](https://img.shields.io/badge/kakaotalk-ffffff?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/o/seCDITVe)
 
-                             <br>              [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJo-hahyeon&count_bg=%23FF5BAB&title_bg=%23FFE4F2&icon=furrynetwork.svg&icon_color=%23FF2FB1&title=hyeon&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJo-hahyeon&count_bg=%23FF5BAB&title_bg=%23FFE4F2&icon=furrynetwork.svg&icon_color=%23FF2FB1&title=hyeon&edge_flat=false)](https://hits.seeyoufarm.com)
