@@ -3,10 +3,8 @@
 ![2_mon](https://user-images.githubusercontent.com/121528432/210174370-64f346f0-e7a3-49f0-abd0-947265f973e7.png)
 
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=Jo-hahyeon&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=Jo-hahyeon&theme=coldruby3)
 
-
-<img src="http://mazandi.herokuapp.com/api?handle=Jo-hahyeon&theme=cold"/>
 
 ## 🅗🅘, 🅔🅥🅔🅡🅨🅞🅝🅔 🅗🅔🅡🅔 👋
 
