@@ -1,9 +1,8 @@
+
 # 🅦🅗🅐🅣 🅓🅐🅨 🅞🅕 🅣🅗🅔 🅦🅔🅔🅚 🅘🅢 🅣🅞🅓🅐🅨?
 
 ![2_mon](https://user-images.githubusercontent.com/121528432/210174370-64f346f0-e7a3-49f0-abd0-947265f973e7.png)
 
-
-<img src="http://mazandi.herokuapp.com/api?handle=Jo-hahyeon&theme=ruby3_cold.svg"/>
 
 ## 🅗🅘, 🅔🅥🅔🅡🅨🅞🅝🅔 🅗🅔🅡🅔 👋
 
@@ -27,8 +26,7 @@
 
 ![buefy](https://github-readme-stats.vercel.app/api?username=Jo-hahyeon&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ## ✨ Studying ✨
 
@@ -45,15 +43,6 @@
 [![Naver](https://img.shields.io/badge/Naver-ffffff?style=for-the-badge&logo=Naver)](https://blog.naver.com/mizzu_02)
 [![instagram](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_adorable__3/)
 [![kakaotalk](https://img.shields.io/badge/kakaotalk-ffffff?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/o/seCDITVe)
-
-
-
-
-
-
-
-
-
 
 
 
