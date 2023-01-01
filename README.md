@@ -45,5 +45,4 @@
 [![kakaotalk](https://img.shields.io/badge/kakaotalk-ffffff?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/o/seCDITVe)
 
 
-[![Solved.ac
-Jo-hahyeon](http://mazassumnida.wtf/api/generate_badge?boj={Jo-hahyeon})](https://solved.ac/{Jo-hahyeon})
+
