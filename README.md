@@ -1,7 +1,6 @@
 
 # 🅦🅗🅐🅣 🅓🅐🅨 🅞🅕 🅣🅗🅔 🅦🅔🅔🅚 🅘🅢 🅣🅞🅓🅐🅨?
-
-![1_tue](https://user-images.githubusercontent.com/121528432/210299066-c70768a1-7472-4fcc-bb97-66832f426efa.png)
+![2_wed](https://user-images.githubusercontent.com/121528432/210451998-ac7939fe-44c3-4a6b-b474-75632cfe5964.png)
 
 
 
